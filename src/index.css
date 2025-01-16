@@ -94,8 +94,8 @@
   }
 }
 
-@media (width < 800px) {
- button {
+@media (width < 768px) {
+  .button-telegram {
   align-self: center;
  }
 }
