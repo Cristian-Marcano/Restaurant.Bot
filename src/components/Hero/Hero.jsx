@@ -15,7 +15,7 @@ const Hero = () => {
           <p className="">
             Nosotros somos un local ubicado en Ciudad Guayana, Puerto Ordaz, Castillito frente de la Universidad Gran Mariscal de Ayacucho.
           </p>
-          <button>
+          <a href="https://t.me/deLiverySeminariouGmaBot" role="button" className="button-telegram" target="_blank">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="28"
@@ -28,7 +28,7 @@ const Hero = () => {
               ></path>
             </svg>
             <span>Telegram</span>
-          </button>
+          </a>
         </div>
         {/* image section */}
         <div className="flex flex-col justify-center">
