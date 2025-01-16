@@ -94,7 +94,7 @@
   }
 }
 
-@media (width < 768px) {
+@media (width < 800px) {
  button {
   align-self: center;
  }
